@@ -1,0 +1,42 @@
+Type;Rating;Standard_Rating;Description
+Movie;16;PG-13;Parents Strongly Cautioned
+Movie;13+;PG;Parental Guidance Suggested
+Movie;16+;PG-13;Parents Strongly Cautioned
+Movie;18+;R;Restricted
+Movie;7+;TV-PG;Parental Guidance Suggested
+Movie;AGES_16_;PG-13;Parents Strongly Cautioned
+Movie;AGES_18_;R;Restricted
+Movie;ALL;G;General Audience
+Movie;ALL_AGES;G;General Audience
+Movie;G;G;General Audience
+Movie;NOT_RATE;NR;Not Rated
+Movie;NR;NR;Not Rated
+Movie;PG;PG;Parental Guidance Suggested
+Movie;PG-13;PG-13;Parents Strongly Cautioned
+Movie;R;R;Restricted
+Movie;TV-NR;NR;Not Rated
+Movie;UNRATED;NR;Not Rated
+Movie;UR;NR;Not Rated
+Movie;;NR;Not Rated
+TV Show;16;TV-14;Parents Strongly Cautioned
+TV Show;13+;TV-PG;Parental Guidance Suggested
+TV Show;16+;TV-14;Parents Strongly Cautioned
+TV Show;18+;TV-MA;Mature Audience Only
+TV Show;7+;TV-Y7;Directed to Older Children
+TV Show;AGES_16_;TV-14;Parents Strongly Cautioned
+TV Show;AGES_18_;TV-MA;Mature Audience Only
+TV Show;ALL;G;General Audience
+TV Show;ALL_AGES;G;General Audience
+TV Show;NOT_RATE;NR;Not Rated
+TV Show;NR;NR;Not Rated
+TV Show;TV-14;TV-14;Parents Strongly Cautioned
+TV Show;TV-G;TV-G;General Audience
+TV Show;TV-MA;TV-MA;Mature Audience Only
+TV Show;TV-NR;NR;Not Rated
+TV Show;TV-PG;TV-PG;Parental Guidance Suggested
+TV Show;TV-Y;TV-Y;All Children
+TV Show;TV-Y7;TV-Y7;Directed to Older Children
+TV Show;TV-Y7 FV;TV-Y7 FV;Directed to Older Children - Fantasy Violence
+TV Show;UNRATED;NR;Not Rated
+TV Show;UR;NR;Not Rated
+TV Show;;NR;Not Rated

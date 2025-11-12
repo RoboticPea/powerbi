@@ -1,0 +1,110 @@
+Genre;Standard_Genre
+Comedy;Comedy
+Drama;Drama
+International;International
+Action;Action
+Suspense;Suspense
+Documentary;Documentary
+Special Interest;N/A
+Science Fiction;Science Fiction
+Adventure;Adventure
+Kids;Kids
+Horror;Horror
+Sports;Sports
+Talk Show;Talk Show
+Variety;N/A
+Anime;Anime
+TV Shows;N/A
+Animation;Animation
+Fantasy;Fantasy
+Fitness;Fitness
+Faith;Spirituality
+Spirituality;Spirituality
+Arts;Culture
+Entertainment;N/A
+Culture;Culture
+Romance;Romance
+Unscripted;Unscripted
+Military;War
+War;War
+Western;Western
+Young Adult Audience;Young Adult
+Music Videos;Music
+Concerts;Music
+LGBTQ;LGBTQ
+Historical;History
+Arthouse;Arts
+Family;Family
+Musical;Musical
+Docuseries;Documentary
+Music;Music
+Biographical;Documentary
+Action-Adventure;Action
+Superhero;Action
+Reality;Game Show
+Survival;Nature
+Animals;Nature
+Nature;Nature
+Coming of Age;Young Adult
+Lifestyle;Lifestyle
+Movies;N/A
+Concert Film;Music
+Crime;Crime
+Anthology;N/A
+Medical;Medical
+Spy;Action
+Espionage;Action
+Buddy;N/A
+Parody;Comedy
+Game Show;Game Show
+Competition;Game Show
+Thriller;Thriller
+Police;Crime
+Cop;Crime
+Dance;Arts
+Series;N/A
+Mystery;Mystery
+Soap Opera;Soap Opera
+Melodrama;Drama
+Disaster;Disaster
+Travel;Travel
+Documentaries;Documentary
+International TV Shows;International
+TV Dramas;Drama
+TV Mysteries;Mystery
+Crime TV Shows;Crime
+TV Action;Action
+Reality TV;Game Show
+Romantic TV Shows;Romance
+TV Comedies;Comedy
+TV Horror;Horror
+Children;Kids
+Family Movies;Family
+British TV Shows;International
+Comedies;Comedy
+Dramas;Drama
+International Movies;International
+Spanish-Language TV Shows;International
+Thrillers;Thriller
+Horror Movies;Horror
+Sci-Fi;Science Fiction
+Independent Movies;Independent
+TV Thrillers;Thriller
+Kids' TV;Kids
+TV Sci-Fi;Science Fiction
+Anime Features;Anime
+Sports Movies;Sports
+Anime Series;Anime
+Korean TV Shows;International
+Romantic Movies;Romance
+Musicals;Musical
+Science;Science
+Nature TV;Nature
+Teen TV Shows;Teen
+LGBTQ Movies;LGBTQ
+Stand-Up Comedy;Comedy
+Talk Shows;Talk Show
+Classic;Classic
+Cult TV;Cult
+Cult Movies;Cult
+Classic Movies;Classic
